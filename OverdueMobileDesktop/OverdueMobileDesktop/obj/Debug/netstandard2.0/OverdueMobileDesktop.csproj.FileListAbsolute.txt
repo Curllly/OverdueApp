@@ -1,0 +1,85 @@
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.deps.json
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.AssemblyReference.cache
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfoInputs.cache
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfo.cs
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.CoreCompileInputs.cache
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\refint\OverdueMobileDesktop.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ref\OverdueMobileDesktop.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\CalculatorPage.xaml.g.cs
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.deps.json
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\CalculatorPage.xaml.g.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfo.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\refint\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ref\OverdueMobileDesktop.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.deps.json
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.AssemblyReference.cache
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\CalculatorPage.xaml.g.cs
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfoInputs.cache
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfo.cs
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.CoreCompileInputs.cache
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\refint\OverdueMobileDesktop.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ref\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.deps.json
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\CalculatorPage.xaml.g.cs
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfo.cs
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\refint\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ref\OverdueMobileDesktop.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.deps.json
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\bin\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.AssemblyReference.cache
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\CalculatorPage.xaml.g.cs
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfoInputs.cache
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.AssemblyInfo.cs
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\refint\OverdueMobileDesktop.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\OverdueMobileDesktop.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop\obj\Debug\netstandard2.0\ref\OverdueMobileDesktop.dll

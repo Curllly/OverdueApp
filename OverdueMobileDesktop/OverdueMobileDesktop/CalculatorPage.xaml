@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OverdueMobileDesktop.CalculatorPage">
+    <ContentPage.Resources>
+        <Style TargetType="Label" x:Key="Icons">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="FontFamily" Value="MaterialRegular" />
+            <Setter Property="TextColor" Value="#FFFFFA" />
+        </Style>
+        <Style TargetType="Button" x:Key="IconsButton">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="FontFamily" Value="MaterialRegular" />
+            <Setter Property="TextColor" Value="#FFFFFA" />
+            <Setter Property="BackgroundColor" Value="Transparent" />
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Spacing="30">
+            <StackLayout Orientation="Horizontal" Padding="5"
+                     BackgroundColor="#57A773">
+                <Label Text="&#xea5f;" Style="{StaticResource Icons}" />
+                <Label Text="Калькулятор" FontSize="20" VerticalOptions="Center" FontAttributes="Bold" TextColor="#FFFFFA"/>
+            </StackLayout>
+            <!--Emanufactured-->
+            <Label Text="Введите дату изготовления" FontSize="20" HorizontalOptions="Center" FontAttributes="Bold"
+                   TextColor="Black"/>
+            <DatePicker Format="dd.MM.yyyy" x:Name="Emanufactured"/>
+
+            <Label Text="Заполните срок годности" FontSize="20" HorizontalOptions="Center" FontAttributes="Bold"
+                   TextColor="Black"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <RadioButton Content="День" GroupName="date" x:Name="day"/>
+                <RadioButton Content="Месяц" GroupName="date" x:Name="month"/>
+                <RadioButton Content="Год" GroupName="date" x:Name="year"/>
+            </StackLayout>
+            <Entry Placeholder="Например: 8 дней" FontSize="20" x:Name="Ebestbefore" Keyboard="Numeric"
+                   ClearButtonVisibility="WhileEditing"/>
+            
+            <Label Text="" x:Name="result" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"
+                   FontSize="20" FontAttributes="Bold" TextColor="#9F0101"
+                   IsVisible="false"/>
+            
+            <Button Text="Вычислить" TextColor="#FFFFFA" TextTransform="Uppercase" 
+                    FontAttributes="Bold" FontSize="18"
+                    BackgroundColor="#57A773" VerticalOptions="EndAndExpand"
+                    Clicked="Calculate"/>
+            
+            <StackLayout Orientation="Horizontal" BackgroundColor="#57A773"
+                     Padding="5" VerticalOptions="End" Spacing="-800">
+                <Button Text="&#xea5f;" Style="{StaticResource IconsButton}" HorizontalOptions="StartAndExpand" />
+                <Button Text="&#xe896;" Style="{StaticResource IconsButton}" HorizontalOptions="EndAndExpand"
+                        TextColor="#CECECE" Clicked="goToListPage"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

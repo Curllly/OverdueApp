@@ -1,0 +1,345 @@
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.AssemblyReference.cache
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CoreCompileInputs.cache
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CopyComplete
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Encodings.Web.dll
+D:\Курсовая работа\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Json.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Encodings.Web.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Json.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CopyComplete
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+C:\Users\pavel\Desktop\Новая папка\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Encodings.Web.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Json.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.dll
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.AssemblyReference.cache
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CoreCompileInputs.cache
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CopyComplete
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+C:\Users\307-05\Desktop\Overdue\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Encodings.Web.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Json.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.dll
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.pdb
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CopyComplete
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+C:\Users\pavel\Desktop\q\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Encodings.Web.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\System.Text.Json.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.dll
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\bin\iPhoneSimulator\Debug\OverdueMobileDesktop.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.AssemblyReference.cache
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.csproj.CopyComplete
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.exe
+D:\Study\Visual Studio\OverdueApp\OverdueMobileDesktop\OverdueMobileDesktop.iOS\obj\iPhoneSimulator\Debug\OverdueMobileDesktop.iOS.pdb

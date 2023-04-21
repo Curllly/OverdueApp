@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:OverdueMobileDesktop.Converters"
+             x:Class="OverdueMobileDesktop.MainPage">
+    <!--Resources-->
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:ToLocalDateConverter x:Key="dateConverter" />
+            <local:PlaceIdToPlaceConverter x:Key="placeConverter" />
+            <local:OverdueConverter x:Key="overdueConverter" />
+            <local:CountConverter x:Key="countConverter" />
+            <local:OverdueWhiteTextConverter x:Key="overdueTextConverter" />
+        </ResourceDictionary>
+        <Style TargetType="Button" x:Key="IconsButton">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="FontFamily" Value="MaterialRegular" />
+            <Setter Property="TextColor" Value="#FFFFFA" />
+            <Setter Property="BackgroundColor" Value="Transparent" />
+        </Style>
+    </ContentPage.Resources>
+    <!--End Resources-->
+    
+    <StackLayout BackgroundColor="#FFFFFA">
+        <!--Heading-->
+        <StackLayout Orientation="Horizontal" Padding="5"
+                     BackgroundColor="#57A773">
+            <Button Text="&#xe887;" Style="{StaticResource IconsButton}" HorizontalOptions="EndAndExpand"
+                    Clicked="ShowTutorial"/>
+        </StackLayout>
+        <!--End Heading-->
+        
+        
+        <ListView x:Name="productsList" ItemsSource="{Binding Products}"
+                  SelectedItem="{Binding SelectedProduct, Mode=TwoWay}" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <Frame Margin="5" BackgroundColor="{Binding BestBefore, Converter={StaticResource overdueConverter}}"
+                                   CornerRadius="15" BorderColor="Black">
+                                <StackLayout>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="{Binding Title}" 
+                                               TextColor="{Binding BestBefore, Converter={StaticResource overdueTextConverter}}" 
+                                               FontSize="20" />
+                                        <Label Text="{Binding Count, Converter={StaticResource countConverter}}" 
+                                               TextColor="{Binding BestBefore, Converter={StaticResource overdueTextConverter}}"
+                                               FontSize="20" />
+                                    </StackLayout>
+                                    <Label Text="{Binding PlaceId, Converter={StaticResource placeConverter}}" 
+                                           TextColor="{Binding BestBefore, Converter={StaticResource overdueTextConverter}}" />
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Годен до:" TextColor="{Binding BestBefore, Converter={StaticResource overdueTextConverter}}" />
+                                        <Label Text="{Binding BestBefore, Converter={StaticResource dateConverter}}" 
+                                               TextColor="{Binding BestBefore, Converter={StaticResource overdueTextConverter}}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+        <!--isBusyChecker-->
+        <StackLayout IsVisible="{Binding IsBusy}" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Padding="20">
+            <Label Text="Загрузка данных..." TextColor="Gray" HorizontalOptions="Center" />
+            <ActivityIndicator IsRunning="{Binding IsBusy}" Color="Gray" />
+        </StackLayout>
+        
+        <!--End isBusyChecker-->
+
+        <!--AddButton-->
+        <Button Text="&#xe147;" Style="{StaticResource IconsButton}"
+                TextColor="#6564DB" HorizontalOptions="Center" VerticalOptions="EndAndExpand"
+                FontSize="60" Command="{Binding CreateProductCommand}"
+                IsVisible="{Binding IsLoaded}" />
+        <!--End AddButton-->
+        
+        <!--Menu-->
+        <StackLayout Orientation="Horizontal" BackgroundColor="#57A773"
+                     Padding="5" VerticalOptions="End">
+            <Button Text="&#xea5f;" Style="{StaticResource IconsButton}" TextColor="#CECECE" Clicked="goToCalculatorPage" HorizontalOptions="StartAndExpand" />
+            <Button Text="&#xe896;" Style="{StaticResource IconsButton}" HorizontalOptions="EndAndExpand" />
+        </StackLayout>
+        <!--End Menu-->
+    </StackLayout>
+
+</ContentPage>

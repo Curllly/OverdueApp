@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OverdueMobileDesktop.ProductPage">
+    <ContentPage.Resources>
+        <Style TargetType="Button" x:Key="IconsButton">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="FontFamily" Value="MaterialRegular" />
+            <Setter Property="TextColor" Value="#FFFFFA" />
+            <Setter Property="BackgroundColor" Value="Transparent" />
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" Padding="5"
+                         BackgroundColor="#57A773">
+                <Button Text="&#xe5c4;" Style="{StaticResource IconsButton}" Command="{Binding BackCommand}"
+                        HorizontalOptions="StartAndExpand"/>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Название:" />
+                <Entry Text="{Binding Path=SelectedProduct.Title}" FontSize="Medium" x:Name="title"
+                       ClearButtonVisibility="WhileEditing"/>
+                
+                <Label Text="Произведён:" />
+                <DatePicker Date="{Binding Path=SelectedProduct.Manufactured}" Format="dd.MM.yyyy" FontSize="Medium" x:Name="manufactured"/>
+                
+                <Label Text="Годен до:" />
+                <DatePicker Date="{Binding Path=SelectedProduct.BestBefore}" Format="dd.MM.yyyy" FontSize="Medium" x:Name="bestbefore"/>
+
+                <Label Text="Место хранения:" />
+                <Picker x:Name="placePicker">
+                    <Picker.Items>
+                        <x:String>Мясной холодильник</x:String>
+                        <x:String>Молочный холодильник</x:String>
+                        <x:String>Бакалея консервация</x:String>
+                        <x:String>Сладкая бакалея</x:String>
+                        <x:String>Нотфуд</x:String>
+                        <x:String>Морозилка</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Label Text="Количество:" />
+                <Entry Text="{Binding Path=SelectedProduct.Count}" FontSize="Medium" x:Name="count" Keyboard="Numeric"
+                       ClearButtonVisibility="WhileEditing"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Button Text="&#xe161;" Style="{StaticResource IconsButton}" BackgroundColor="#57A773" CornerRadius="15"
+                        Clicked="SaveProduct"/>
+                <Button Text="&#xe872;" Style="{StaticResource IconsButton}" BackgroundColor="#57A773"
+                        Clicked="DeleteProduct" CornerRadius="15" x:Name="deleteBtn"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

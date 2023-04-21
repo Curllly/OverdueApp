@@ -1,0 +1,440 @@
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.AssemblyReference.cache
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfoInputs.cache
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfo.cs
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CoreCompileInputs.cache
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\appsettings.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.exe
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.deps.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.runtimeconfig.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.pdb
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Castle.Core.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.OverdueAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.OverdueAPI.props
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OverdueAPI.props
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OverdueAPI.props
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\scopedcss\bundle\OverdueAPI.styles.css
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CopyComplete
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\refint\OverdueAPI.dll
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.pdb
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.genruntimeconfig.cache
+D:\Курсовая работа\OverdueApp\OverdueAPI\obj\Debug\net6.0\ref\OverdueAPI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\OverdueAPI.exe
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\OverdueAPI.deps.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\OverdueAPI.runtimeconfig.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\OverdueAPI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\OverdueAPI.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfo.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.OverdueAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.OverdueAPI.props
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OverdueAPI.props
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OverdueAPI.props
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\scopedcss\bundle\OverdueAPI.styles.css
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CopyComplete
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\refint\OverdueAPI.dll
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.pdb
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\OverdueAPI.genruntimeconfig.cache
+C:\Users\pavel\Desktop\Новая папка\OverdueAPI\obj\Debug\net6.0\ref\OverdueAPI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\OverdueAPI.exe
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\OverdueAPI.deps.json
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\OverdueAPI.runtimeconfig.json
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\OverdueAPI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\OverdueAPI.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.AssemblyReference.cache
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfoInputs.cache
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfo.cs
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CoreCompileInputs.cache
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\scopedcss\bundle\OverdueAPI.styles.css
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CopyComplete
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\refint\OverdueAPI.dll
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.pdb
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\OverdueAPI.genruntimeconfig.cache
+C:\Users\307-05\Desktop\Overdue\OverdueAPI\obj\Debug\net6.0\ref\OverdueAPI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\OverdueAPI.exe
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\OverdueAPI.deps.json
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\OverdueAPI.runtimeconfig.json
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\OverdueAPI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\OverdueAPI.pdb
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfoInputs.cache
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfo.cs
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.OverdueAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.OverdueAPI.props
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OverdueAPI.props
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OverdueAPI.props
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\scopedcss\bundle\OverdueAPI.styles.css
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CopyComplete
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\refint\OverdueAPI.dll
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.pdb
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\OverdueAPI.genruntimeconfig.cache
+C:\Users\pavel\Desktop\q\OverdueAPI\obj\Debug\net6.0\ref\OverdueAPI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\appsettings.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.exe
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.deps.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.runtimeconfig.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\OverdueAPI.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Castle.Core.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.AssemblyReference.cache
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfoInputs.cache
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.AssemblyInfo.cs
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CoreCompileInputs.cache
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.OverdueAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.OverdueAPI.props
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OverdueAPI.props
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OverdueAPI.props
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\scopedcss\bundle\OverdueAPI.styles.css
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.csproj.CopyComplete
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\refint\OverdueAPI.dll
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.pdb
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\OverdueAPI.genruntimeconfig.cache
+D:\Study\Visual Studio\OverdueApp\OverdueAPI\obj\Debug\net6.0\ref\OverdueAPI.dll
